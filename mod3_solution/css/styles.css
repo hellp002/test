@@ -1,16 +1,9 @@
-#header {
-    margin-left : 0;
-}
-
-#header-nav {
-    margin-bottom: 0;
-}
-
 #collapsable-nav {
     background-color: red;
 }
-
-
+.navbar {
+    margin-bottom: 0px;
+}
 .tile {
     margin-bottom: 20px;
 }
