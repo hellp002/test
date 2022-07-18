@@ -1,0 +1,24 @@
+#header {
+    margin-left : 0;
+}
+
+#header-nav {
+    margin-bottom: 0;
+}
+
+#collapsable-nav {
+    background-color: red;
+}
+
+
+.tile {
+    margin-bottom: 20px;
+}
+
+#Chicken, #Beef, #Sushi {
+    background-color: aqua;
+    border-color: black;
+    border-radius: 5px;
+    border-style: solid;
+    padding: 10px;
+}
